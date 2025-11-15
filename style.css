@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
     padding: 40px;
     line-height: 1.7;
-    background-image: url('matte.avif'); 
+    background-image: url('background.avif'); 
     background-size: cover; 
     background-attachment: fixed;
     background-color: #f8f5f2;
